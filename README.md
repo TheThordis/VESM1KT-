@@ -1,2 +1,1 @@
 # Þórdís Matthea Eiríksdóttir
-# Hewwo
