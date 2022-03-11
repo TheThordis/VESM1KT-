@@ -25,9 +25,10 @@ Incididunt commodo aliqua et Lorem veniam velit velit ullamco eiusmod do pariatu
 
 ## Ad esse sit nostrud est sit sunt
 
-Miðja  Vinstri  Hægri
-12  34  56
-tempor  et  fugiat
+| Miðja | Vinstri | Hægri |
+| :-: |:-| -:|
+| 12 | 34 | 56 |
+| tempor | et | fugiat |
 
 ### Eiusmod tempor et fugiat
 
@@ -37,32 +38,34 @@ tempor  et  fugiat
 
 ### Dolore ut velit
 
-
+```javascript
 void setup() {
     Serial.begin(9600);
     Serial.println("Halló");
 }
+```
 
 ## Commodo occaecat
 
-Incididunt
-laborum
-mollit
-cupidatat
-laboris
-anim
+1. Incididunt
+2. laborum
+   1. mollit
+   2. cupidatat
+3. laboris
+4. anim
 
 Velit sit sunt incididunt ipsum eiusmod id ipsum deserunt sint non enim.
 
-deserunt
-sit
-aliqua
-eiusmod
-irure
-aliquip
+- deserunt
+   - sit
+   - aliqua
+      - eiusmod
+   - irure
+- aliquip
 
 ## Occaecat amet labore
 
-Slóð á mynd: https://tskoli.is/wp-content/uploads/2019/06/skolavorduholt-595x440.jpg
+![alt text](https://tskoli.is/wp-content/uploads/2019/06/skolavorduholt-595x440.jpg "tskoli mynd")
 
-Video id: HUBNt18RFbo
+<a href="https://www.youtube.com/watch?v=HUBNt18RFbo" target="_blank"> <img src="(https://www.youtube.com/watch?v=HUBNt18RFbo" 
+alt="myndband" width="240" height="180" border="10" /> </a>
