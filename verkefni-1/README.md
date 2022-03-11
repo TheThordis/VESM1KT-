@@ -35,7 +35,6 @@ Incididunt commodo aliqua et Lorem veniam velit velit ullamco eiusmod do pariatu
 ```mermaid
 
 pie title Tölur úr töflunni hér að ofan
-    title Key elements in Product X
     "Miðja" : 12
     "Vinstri" : 34
     "Hægri" : 56
