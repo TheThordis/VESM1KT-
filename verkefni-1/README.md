@@ -67,5 +67,6 @@ Velit sit sunt incididunt ipsum eiusmod id ipsum deserunt sint non enim.
 
 ![alt text](https://tskoli.is/wp-content/uploads/2019/06/skolavorduholt-595x440.jpg "tskoli mynd")
 
-<a href="https://www.youtube.com/watch?v=HUBNt18RFbo" target="_blank"> <img src="(https://www.youtube.com/watch?v=HUBNt18RFbo" 
-alt="myndband" width="240" height="180" border="10" /> </a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=HUBNt18RFbo
+" target="_blank"><img src="http://img.youtube.com/vi/HUBNt18RFbo/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="50%" border="10" /></a>
