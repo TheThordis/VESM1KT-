@@ -1,10 +1,17 @@
 # Verkefni 2.1
 
 .svg mynd af lógóinu:
-![logo](https://user-images.githubusercontent.com/100709468/159170402-31fde8e9-eaf6-401b-98a2-2ffbc639a297.svg)
+
+![logo](https://user-images.githubusercontent.com/100709468/161430324-03a7c368-9464-477c-b63f-706657f14b4e.svg)
 
 .png mynd af lógóinu:
-![logo](https://user-images.githubusercontent.com/100709468/159170520-f4ff1c79-0de8-4990-a83d-e0119221f2b4.png)
+&nbsp;
+&nbsp;
+&nbsp;
+
+![logopng](https://user-images.githubusercontent.com/100709468/161430504-6a2fca6c-1347-4820-a802-96b7a26f5755.png)
+
+
 
 Athugaðu að lógóið sést í báðum tilfellum betur ef þú ert *ekki* með stillt á 'dark mode'.
 
