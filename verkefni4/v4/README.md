@@ -21,7 +21,8 @@ https://user-images.githubusercontent.com/100709468/163690919-26e11498-1489-4da9
 
 
 ### Kóðinn:
-#### (ég set einnig skjalið með kóðanum inn í v4 möppuna)
+#### .ino skjalið með kóðanum er undir [v4 --> FINAL_PRODUCT] 
+&nbsp;
 
 const int PUSHBUTTON_PIN = 2; <br>
 const int PIN11 = 11; <br>
