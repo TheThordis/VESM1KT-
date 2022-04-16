@@ -12,7 +12,13 @@ Gagnstæðum ljósum er stjórnað af sama ásinum, ↑ og ↓ af x-ásnum en �
 
 https://user-images.githubusercontent.com/100709468/163690919-26e11498-1489-4da9-a881-42b029bee0b2.mov
 
-<br>
+### Fleiri myndir:
+![1](https://user-images.githubusercontent.com/100709468/163692251-6a1f8497-ec58-451e-af25-2ed5a96345db.jpg)
+![2](https://user-images.githubusercontent.com/100709468/163692253-cd0a24a0-3e10-4ccb-9c8d-9dc5fb3c67c5.jpg)
+![3](https://user-images.githubusercontent.com/100709468/163692254-ff49a1e5-d732-4285-b16a-ed881ca84a9d.jpg)
+![4](https://user-images.githubusercontent.com/100709468/163692255-a606d9fa-f468-439a-8870-e3b3849cc1eb.jpg)
+![5](https://user-images.githubusercontent.com/100709468/163692256-33c01e33-6033-47f0-89ef-9f82b4ef7f55.jpg)
+
 
 ### Kóðinn:
 #### (ég set einnig skjalið með kóðanum inn í v4 möppuna)
