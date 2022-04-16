@@ -1,6 +1,10 @@
 # STÝRIPINNI
-<br>
+
+
 ### Hvað gerði ég?
+
+Ég gerði æfingarverkefnið og skoðaði svo þetta --> https://www.youtube.com/watch?v=WXzBMkdR3yk&t=62s <-- YouTube myndband.<br> Í lýsingunni undir myndbandinnu var hlekkur að þessum kóða --> https://github.com/viratbadri/Electro-oxe/blob/master/codes/my_joystcode.ino sem ég blandaði hálfpartinn við kóðann úr æfingarverkefninu (https://create.arduino.cc/projecthub/Raushancpr/control-rgb-led-with-joystick-68f601). 
+
 
 ### Myndband:
 
@@ -9,7 +13,7 @@ https://user-images.githubusercontent.com/100709468/163690919-26e11498-1489-4da9
 
 <br>
 
-### Kóði:
+### Kóðinn:
 const int PUSHBUTTON_PIN = 2; <br>
 const int PIN11 = 11; <br>
 const int PIN10 = 10; <br>
