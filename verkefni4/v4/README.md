@@ -75,7 +75,7 @@ if (digitalRead(PUSHBUTTON_PIN) == 1) { <br>
   } <br>
 } <br>
 
-#### Athugasemdir frá nemanda 
+### Athugasemdir frá nemanda 
 
 
 Gildin á joystick-inu mínu eru eftirfarandi: <br>
