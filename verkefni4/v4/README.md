@@ -3,7 +3,8 @@
 
 ### Hvað gerði ég?
 
-Ég gerði æfingarverkefnið og skoðaði svo þetta --> https://www.youtube.com/watch?v=WXzBMkdR3yk&t=62s <-- YouTube myndband.<br> Í lýsingunni undir myndbandinnu var hlekkur að þessum kóða --> https://github.com/viratbadri/Electro-oxe/blob/master/codes/my_joystcode.ino sem ég blandaði hálfpartinn við kóðann úr æfingarverkefninu (https://create.arduino.cc/projecthub/Raushancpr/control-rgb-led-with-joystick-68f601). 
+Ég gerði æfingarverkefnið og skoðaði svo [þetta](https://www.youtube.com/watch?v=WXzBMkdR3yk&t=62s) YouTube myndband. Í lýsingunni undir myndbandinnu var hlekkur að [þessum](https://github.com/viratbadri/Electro-oxe/blob/master/codes/my_joystcode.ino) kóða, sem ég blandaði hálfpartinn við kóðann úr [æfingarverkefninu](https://create.arduino.cc/projecthub/Raushancpr/control-rgb-led-with-joystick-68f601). <br>
+Gagnstæðum ljósum er stjórnað af sama ásinum, ↑ og ↓ af x-ásnum en ← og → af y-ásnum. Ef ýtt er niður í miðjuna kviknar á öllum fjórum.
 
 
 ### Myndband:
@@ -14,6 +15,8 @@ https://user-images.githubusercontent.com/100709468/163690919-26e11498-1489-4da9
 <br>
 
 ### Kóðinn:
+#### (ég set einnig skjalið með kóðanum inn í v4 möppuna)
+
 const int PUSHBUTTON_PIN = 2; <br>
 const int PIN11 = 11; <br>
 const int PIN10 = 10; <br>
@@ -71,3 +74,12 @@ if (digitalRead(PUSHBUTTON_PIN) == 1) { <br>
   digitalWrite(8, HIGH); <br>
   } <br>
 } <br>
+
+#### Athugasemdir frá nemanda 
+
+
+Gildin á joystick-inu mínu eru eftirfarandi: <br>
+*X-gildi --> **0** til **1023*** <br>
+*Y-gildi --> **1000** til **1023*** <br>
+Ég veit ekki hvers vegna y-gildin eru þessi, en þrátt fyrir hversu grunsamleg þau eru var auðvelt að vinna með þau í þessu verkefni. 
+
