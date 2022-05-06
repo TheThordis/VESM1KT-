@@ -1,0 +1,1 @@
+#UMFERÐARLJÓS: ÖNNUR TÝPA
