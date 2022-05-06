@@ -1,5 +1,5 @@
-#UMFERÐARLJÓS: NÚ MEÐ MÓTOR
-### Þvæi hví ekki?
+# UMFERÐARLJÓS: NÚ MEÐ MÓTOR
+### Því hví ekki?
 
 Ég bætti servo mótor á verkefnið, bara því ég gat það. </br>
 Hér er myndband:
