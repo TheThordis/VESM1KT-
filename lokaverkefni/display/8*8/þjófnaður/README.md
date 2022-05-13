@@ -1,0 +1,1 @@
+# Ég stal meiri kóða.
