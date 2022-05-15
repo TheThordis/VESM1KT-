@@ -1,7 +1,8 @@
 # LCD DISPLAY
 
 Ég fylgdi leiðbeiningunum í "Project 20" í bæklinginum sem fylgdi með arduino kit-inu okkar. </br>
-Fékk kóðann [hérna](https://wiki.keyestudio.com/KS0077(78,79%EF%BC%89Super_Learning_Kit_for_Arduino#Project_20:_1602_LCD ), en skrifaði minn eigin texta í stað þess texta sem var nú þegar í kóðanum.
+Fékk kóðann [hérna](https://wiki.keyestudio.com/KS0077(78,79%EF%BC%89Super_Learning_Kit_for_Arduino#Project_20:_1602_LCD ), en skrifaði minn eigin texta í stað þess texta sem var nú þegar í kóðanum. </br>
+(Taktu eftir því að "potentiometer" var líka notaður í þessu verkefni).
 
 Myndband:
 
